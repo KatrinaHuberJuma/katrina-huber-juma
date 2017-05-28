@@ -1,0 +1,43 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #fff7f5;
+    color: #2d0f05;
+    font-size: 14pt;
+}
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    letter-spacing: 1px;
+    font-size: 45px;
+}
+h2 {
+    font-style: italic;
+}
+
+.title-row {
+    text-align: center;
+    background-color: #2d0f05;
+    color: #fff7f5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.head-logo {
+    width: 45%;
+}
+
+#green-bar {
+    height: 50px;
+    background-color: #AFBD63;
+}
+#self-portrait {
+    width: 90%;
+    margin: 70px 50px;
+    border-radius: 5px;
+    border: 10px solid #2d0f05;
+}
+
+.about-me-text {
+    margin: 70px 50px;
+}
