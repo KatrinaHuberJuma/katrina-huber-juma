@@ -2,7 +2,8 @@ body {
     font-family: 'Raleway', sans-serif;
     background-color: #fff7f5;
     color: #2d0f05;
-    font-size: 14pt;
+    font-size: 12pt;
+    line-height: 30px
 }
 
 h1, h2 {
@@ -32,12 +33,23 @@ h2 {
     background-color: #AFBD63;
 }
 #self-portrait {
-    width: 90%;
-    margin: 70px 50px;
+    width: 100%;
     border-radius: 5px;
     border: 10px solid #2d0f05;
 }
-
+#about-me {
+    padding-top: 70px;
+}
 .about-me-text {
-    margin: 70px 50px;
+    margin-right: 50px;
+    margin-bottom:  0;
+    margin-left: 10px;
+}
+#social-links {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+#social-links a {
+    color: #AFBD63;
 }
